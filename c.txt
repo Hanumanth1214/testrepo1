@@ -1,5 +1,6 @@
 this is Bob
 <<<<<<< HEAD
+this is Bob C2
 this Bob C1
 =======
 this is alice c1
