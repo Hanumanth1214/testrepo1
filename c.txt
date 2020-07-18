@@ -1,2 +1,6 @@
 this is Bob
+<<<<<<< HEAD
 this Bob C1
+=======
+this is alice c1
+>>>>>>> af686fde38309f886e662e75b082533cb68b41c9
